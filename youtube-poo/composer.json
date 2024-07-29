@@ -1,0 +1,15 @@
+{
+    "name": "alic/poo",
+    "autoload": {
+        "psr-4": {
+            "Alic\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alicbm",
+            "email": "abarandica1234@gmail.com"
+        }
+    ],
+    "require": {}
+}
